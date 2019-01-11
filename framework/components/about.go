@@ -1,7 +1,6 @@
 package components
 
 import (
-	"./../framework"
 	"syscall/js"
 )
 
